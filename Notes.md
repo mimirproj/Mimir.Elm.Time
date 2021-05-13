@@ -1,0 +1,1 @@
+dotnet pack ./src/Mimir.Elm.Time.fsproj -c Release
